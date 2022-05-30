@@ -1,0 +1,394 @@
+﻿UPPERCASE INTRO:
+
+UPPERCASE er en virksomhed der hjælper både mindre virksomheder og størrer organisationer med at udvikle et grafisk univer og visuel identitet. Internettet er vores hjemmebane, og UPPERCASE har igennem flere år løst profileringsopgaver for en stor del af det danske erhvervsliv.
+
+Firmaet vil have udviklet et fungerende udkast til nyt Website, med eksempler på forskellige undersider.
+
+Siden skal være nem at navigere, Grafisk overskuelig og stilfuld.
+
+Siden skal indeholde en kontaktside med een valideret formular. Der også skal kunne tilgåes fra forsiden via link: Kontakt UPPERCASE
+
+GLOBAL MENU:
+	START
+	KOMPETENCER
+	CASESTUDIES
+	KONTAKT
+
+STARTSIDE:
+	En "teaser" med "Buzzwords" og "Statements"
+	Korte artikler med faktuelt indhold og billeder.
+	Gennemgående footer med informationer, Sitemap/Navigation og SoMe.
+
+
+KOMPETENCER:
+	Logo og informativ tekst i "Ribbon"
+	Afsnit med stor overskrift
+	Ikoner med kernekompetencer
+	Artikler med billeder og tekst.
+
+
+CASESTUDIES:
+	Logo Inverted i Ribbon 
+	Afsnit med stor overskrift
+	Lille "Galleri" med udvalgte Cases (Hovereffekt?)
+	Ikoner for andre cases
+
+
+KONTAKT:
+	Logo Inverted i Ribbon 
+	Google Map API (Behøver ikke være funktionelt)
+	Diverse kontaktinformationer
+	Kontaktformular
+
+Der er leveret en del grafik, herunder grafisk layout som PSD.
+Billeder til Websiden skal muligvis justeres og optimeres.
+
+Siden skal være Responsiv.
+
+Du har 6.5 timer til opgaven!
+______________________________________________________________________________________
+PAGE INDEX:
+
+RIBBON TEXT
+Din grafiske identitet er dit firmas ansigt udadtil.Lad UPPERCASE stå udvikling af dit visuelle univers.Visuel identitet kan beskrives som virksomhedens ansigt udadtil. Det betyder, at din virksomhed er, hvad omverdenen ser.
+Kontakt UPPERCASE
+
+CONTENT TEXT ONE:
+
+FRA SKITSE TIL VISUEL IDENTITET
+Hos UPPERCASE har vi grafiske designere in-house som til dagligt skaber grafiske mirakler. Med passion for godt design og den skandinaviske stil, laver vi bl.a. logoer, identiteter og elementer til din hjemmeside. En visuel identitet kan bedst beskrives som virksomhedens ansigt udadtil. Det betyder, at din virksomhed er, hvad omverdenen ser.
+
+KOMPETENCER
+UPPERCASE er en kompetent samarbejdspartner, som med både faglig skarphed og dyb passion udvikler visuelle identiteter, som sikrer vores kunder et særkende i markedet. En gennemarbejdet visuel eller grafisk identitet definerer samspillet mellem virksomhedens logo, farver, typografi, illustrationer og fotos. Det er altså den visuelle identitet, der giver en virksomhed sin personlighed og adskiller den fra andre.
+
+
+ARTICLE ONE:
+
+DET  GRAFISKE UNIVERS
+
+FRA VISUELLE IDENTITETER TIL WEBSITES
+Vores kompetencer inden for det grafiske område spænder bredt. Det betyder, at vi udvikler en helstøbt løsning til netop dig og din virksomhed.
+
+FUNKTIONELT DESIGN TIL ALLE PLATFORMEVi løser med begejstring alle former for traditionelle, grafiske opgaver, fra udvikling af visuelle identiteter over design af emballage til kreativ produktion af alle former for tryksager.Derudover har vi massiv erfaring med at udvikle grafisk design til både DTP og digitale medier.
+
+DEN KREATIVE PROCES
+I den kreative proces omsætter vi budskaber, information og værdier til færdige grafiske løsninger, som er tilpasset de relevante målgrupper. Afhængigt af dine ønsker kan vi deltage i hele processen fra opstart til færdiggørelse og lancering.
+
+SUSTAINABLE CODING
+Vi har et stort dedikeret team af Webudviklere, der med stor indsigt koder dine digitale medier jvf. gældende standarder.
+
+Læs mere
+
+
+ARTICLE TWO:
+
+FRA SKITSE TIL VISUEL IDENTITET
+
+DIT VISUELLE SÆRKENDE
+Hos UPPERCASE har vi grafiske designere in-house som til dagligt skaber grafiske mirakler.
+
+Med passion for godt design og den skandinaviske stil, laver vi bl.a. logoer, identiteter og elementer til din hjemmeside.
+
+Visuel identitet kan beskrives som virksomhedens ansigt udadtil. Det betyder, at din virksomhed er, hvad omverdenen ser dig som.
+
+En gennemarbejdet visuel eller grafisk identitet definerer samspillet mellem virksomhedens logo, farver, typografi, illustrationer og fotos.Det er altså den visuelle identitet, der giver en virksomhed sin personlighed og adskiller den fra andre.
+
+UPPERCASE er et reklame- og designbureau, som med både faglig skarphed og dyb passion udvikler visuelle identiteter, som sikrer vores kunder et særkende i markedet.
+
+Vore grafikere er dedikerede, innovative og nytænkende.
+
+______________________________________________________________________________________
+
+PAGE KOMPETENCER
+
+RIBBON TEXT:
+
+KONSISTENTE VISUELLE RAMMERMed en gennemtænkt og gennemarbejdet grafisk identitet får du et solidt fundament under din virksomheds kommunikation.
+
+En konsistent og professionel fremtoning indgyder desuden tillid hos dine forskellige interessenter.
+Det lyder måske banalt, men ikke desto mindre har det en enorm betydning.
+
+CONTENT TEXT:
+
+NY VIRKSOMHED ELLER RELANCERING?
+
+Når en helt ny virksomhed skal lanceres, er vi med til at skabe virksomhedens kommunikative fundament fra bunden.
+
+Vi udvikler typisk logo og visuelle retningslinjer, så virksomheden fra dag ét fremstår overbevisende med et udtryk, der matcher virksomhedens vision, services og produkter.
+
+I andre tilfælde relancerer vi en eksisterende virksomhed, som af den ene eller anden årsag har behov for et nyt og anderledes udtryk.
+
+UPPERCASE KERNEKOMPETENCER
+
+GRAFISKE LØSNINGER
+Lad os udvikle dit grafiske univers med baggrund i dine værdier og dit kundegrundlag.
+Læs mere
+
+ONLINE MARKETING
+Fang din målgruppes opmærksomhed på Facebook og Instagram. Vi ønsker at få dem til at interagere.
+Læs mere
+
+SOCIAL MEDIA
+Udnyt de potentialer der ligger i Sociale Medier. Lad os udarbejde strategien og øge din eksponering.
+Læs mere
+
+DIGITAL TRYK OG PRINTMed ugangspunkt i din grafiske identitet udvikler additive materialer som visitkort RollUps og meget mere.Læs mere
+
+
+DEN KREATIVE PROCESS
+
+THE FUZZY FRONTEND? I den kreative proces omsætter vi budskaber, information og værdier til færdige grafiske løsninger, som er tilpasset relevante målgrupper.Afhængigt af dine ønsker kan vi deltage i hele processen fra opstart til færdiggørelse og lancering. Vores kompetencer inden for det grafiske område spænder bredt. Det betyder, at vi udvikler helstøbt og funktionelt design til alle medier og platforme.
+
+FRA VISUELLE IDENTITETER TIL WEBSITESVi løser med begejstring alle former for traditionelle, grafiske opgaver fra udvikling af visuelle identiteter over design af emballage til kreativ produktion af alle former for tryksager. Derudover har vi massiv erfaring med at udvikle grafisk design til digitale medier.
+
+VI LØSER ALLE FORMER FOR GRAFISKE OPGAVERHvis du søger et skarpt og ukompliceret bureau, som arbejder professionelt og passioneret med alle former for grafisk design og kreativ udvikling, er du landet det rigtige sted.
+
+APP UDVIKLING
+UPPERCASE har indledt et samarbejde med Big Lawn, og kan i den forbindelse tilbyde skræddersyede mobile applikationer til dit projekt, eller virksomhed.
+
+Kontakt os og få et indblik i hvad vi kan hjælpe netop dig eller din organisation med.
+Læs mere
+______________________________________________________________________________________
+
+PAGE CASESTUDIES
+
+RIBBON TEXT:
+______________________________________________________________________________________
+
+PAGE KONTAKT
+
+RIBBON TEXT
+VI VIL GERNE TALE MED DIG
+
+
+CONTENT TEXT:
+
+KONTAKT UPPERCASE
+
+Kontakt UPPERCASE og få en uforpligtene samtale om stort ser hvad som helst.
+
+Vore døre er åbne dagligt mellem 08.00 - 17.00 på: Boulevarden 39, 9000 Aalborg.Vi vil meget gerne tale med dig, også omkring de udfordringer og ideer du har i netop dit firma.Vores dedikerede medarbejdere er klar til at tale med dig: Hverdage: 08.00 - 17.00.Du kan på alle tider sende en mail, eller udfylde vores kontaktformular. Så vender een af vore medarbejdere tilbage til dig hurtigst muligt.
+Send os en mail
+
+
+______________________________________________________________________________________
+
+FOOTER:
+
+LEFT:
+
+Om os:UPPERCASE er et bureau, der har fokus på resultater og brugervenlighed.Vi lægger en stor dyd i at kunne levere det rette webdesign og grafisk design, der passer til lige netop dig
+
+
+KONTAKT INFO:
+
+UPPERCASE ApS
+Østergade 4
+9000 Aalborg C
+CVR: 37725977
+Telefon: +45 66 400 569
+E-post: info@UPPERCASE.dk
+
+
+SITE NAVIGATION:
+
+STARTSIDEN
+KOMPETENCER
+CASESTUDIES
+KONTAKTSIDE
+
+KERNEKOMPETENCER:
+
+WEBDESIGN
+GRAFISK DESIGN
+SHOPIFY WEBSHOP
+WOOCOMMERCE
+
+FØLG OS:
+Facebook
+YouTube
+LinkedIn
+
+
+********************************************************************************************************
+
+ADDITIONAL TEXT IF USED?
+
+
+UI/UX
+
+HJEMMESIDENS HVEM, HVAD OG HVORDAN
+
+De tider hvor et website blot var virksomhedens virtuelle visitkort er længe forbi. I dag er hjemmesider en af de vigtigste kommunikationskanaler, der findes, og det stiller selvfølgelig nye krav til design og funktionalitet.
+
+UX er forkortelsen for user experience – og det handler i al sin enkelhed om at have en strategi for den måde, man designer og bygger en hjemmeside, så den opfylder de krav, der stilles til den.
+
+Inden vi designer et nyt website, går vi derfor altid ned i detaljen først. Vi stiller spørgsmål og opsætter mål. Hvad skal siden bruges til? Hvem skal bruge den? Og hvordan?
+
+At designe bevidst med henblik på brug og funktionalitet er efter vores mening ren logik. Godt begyndt er som bekendt halvt fuldendt
+
+
+UDVIKLING AF LOGO
+
+En central del af en visuel identitet er logoet. Som et professionelt designbureau har vi gennem tiden designet en lang række logoer, og vi holder meget af arbejdet med at skabe logoer, som underbygger spændende virksomheder, organisationer og produkter.
+
+UDVIKLING AF DESIGNGUIDES
+
+Om man kalder det en designguide, en brandmanual eller brand guidelines er ikke altafgørende, da målet som regel er det samme: at udvikle en rettesnor for, hvordan virksomheden anvender sin visuelle identitet og sikrer, at det visuelle udtryk er både overbevisende og konsistent.
+
+Når en løsning skal tænkes i detaljen og være let at implementere, udarbejder vi en designguide med retningslinjer for, hvordan virksomhedens visuelle identitet kan foldes ud i hverdagen.
+
+Den gennemarbejdede designguide indholder regler for brug af logo, guidelines for brug af skrifttyper (typografi) samt en gennemtænkt farvepalette, som definerer, hvordan virksomheden kan arbejde med farver i sin kommunikation. Billeder er en vigtig del af de fleste virksomheders univers, og derfor udvikler vi som regel et tilhørende fotokoncept, hvor vi definerer billedstil, motiver m.v. Vi udvikler også ofte retningslinjer for illustrationer, supergrafik og ikonografi.
+
+
+______________________________________________________________________________________
+
+KERNEKOMPETENCER:
+
+GRAFISK DESIGN:
+
+
+VI LØSER ALLE FORMER FOR GRAFISKE OPGAVER …
+
+Hvis du søger et skarpt og ukompliceret bureau, som arbejder professionelt og passioneret med alle former for grafisk design og kreativ udvikling, er du landet det rigtige sted.
+
+
+FRA VISUELLE IDENTITETER TIL WEBSITES
+
+Vores kompetencer inden for det grafiske område spænder bredt. Det betyder, at vi udvikler helstøbt og funktionelt design til alle medier og platforme.
+
+Vi løser med begejstring alle former for traditionelle, grafiske opgaver – fra udvikling af visuelle identiteter over design af emballage til kreativ produktion af alle former for tryksager. Derudover har vi massiv erfaring med at udvikle grafisk design til digitale medier.
+
+
+DEN KREATIVE PROCES
+
+I den kreative proces omsætter vi budskaber, information og værdier til færdige grafiske løsninger, som er tilpasset de relevante målgrupper. Afhængigt af dine ønsker kan vi deltage i hele processen fra opstart til færdiggørelse og lancering.
+
+
+
+LOGO & TYPOGRAFI
+
+Sender du det ønskede budskab? Dit logo skal afspejle dit DNA og er din virksomheds ansigt udadtil. Hvis du vil foran på point og vinde markedsandele, så er logoet altafgørende, hvis du går op i branding.
+
+ONLINE ANNONCERING
+
+Med over 1000+ annonceringsbannere i bagagen, så kan vi stå for designet til dine næste annoncer på f.eks. Facebook. Forbedre din PPC (Pay Per Click) og opnå konkurrencemæssige fordele.
+
+
+
+TRYKSAGER OG DTP
+
+Med udgangspunkt i din virksomheds identitet sørger vi for, at du med stolthed kan uddele dit nye visitkort ud. Vi håndterer nemlig alle tryksager og kan bl.a. design af plakater, flyers, hæfter, roll-up bannere, klistermærker og emballage til dit produkt.
+
+
+GRAFISK INDHOLD, DIGITALE MEDIER
+
+Fang din målgruppes opmærksomhed på Facebook og Instagram. Vi ønsker at få dem til at interagere. Ved at anvende grafisk design kan du kommunikere dit budskab klart og tydeligt ud.
+
+
+ADDITIONAL TEXT:
+
+ARTIKEL 1
+Vi er fan af unikke løsninger
+
+Dit website skal være unikt og derfor designer vi en unik hjemmeside for dig, hvor vi tegner alle undersider op i Photoshop, før vi programmerer den. Det betyder, at dit website bliver visualiseret, før den bliver søsat.
+
+
+ARTIKEL 2
+Høj konvertering i førersædet
+
+Vi ønsker at få din virksomhed til at vækste gennem et stilrent webdesign, som går i takt med dit brands værdier. Men vigtigt er, at dit website konverterer dine besøgende om til kunder, så du kan maksimere din bundlinje.
+
+
+ARTIKEL 3
+WordPress-eksperter & Officiel Shopify Partner
+
+Aldrig har det været nemmere at være webshopejer. Vi arbejder med velkendte systemer, som gør det nemt for dig at være admin og håndtere dine ordre og vedligeholde din webshop eller website.
+
+
+ARTIKEL 4
+Vi gør det komplekse enkelt
+
+Vores programmørhold udvikler stærke og holdbare løsninger og i tæt samarbejde med vores designere bygger vi bro mellem det tekniske og det visuelle, så det hele går op i en højere enhed.
+
+
+______________________________________________________________________________________
+
+CASESTUDIES:
+
+PHORM:
+
+PHORM SPORT
+Emballage design / Logo
+
+PHORM er en dansk startup-virksomhed i sporternæring- og kosttilskudsbranchen, som er på markedet med deres første produkt, PHORM Recovery: Et produkt som kombinerer forskellige kosttilskudsegenskaber. Målgruppen er sportsudøvere, som vil deres krop det absolut bedste. Vi har udviklet hele emballagedesignet til PHORM Recovery.
+
+https://1stphorm.com/
+
+
+
+COUNTLESS:
+
+Countless
+Visuel identitet, produktdesign, logo og webdesign.
+
+Countless er kendt for deres eksklusive og holdbare powerbank, “Countless One”, som udover at have et stilrent design kan oplade en Macbook hele to gange. Da virksomheden blev stiftet og skulle ud på markedet, stod vi for at skulle designe alt fra logo til webdesign.
+
+https://www.countless.dk/
+
+
+
+SEEDSTER:
+
+Seedster
+Grafisk design af tryksager:
+Klistermærker, brevpapir, bagvæg, roll-ups mm.
+
+Seedster er et iværksætterbootcamp som bliver afholdt i Spanien, Marbella. Her kan man møde dygtige iværksættere, dele ud af sin viden og høre inspirerede foredrag fra erfarne erhvervsfolk.
+
+https://seedster.dk/
+
+
+
+HOMEISH:
+
+Homeish
+Webdesign / Udvikling i Shopify
+
+Vi har gennem det sidste års tid samarbejdet med Homeish, hvor det startede med, at Homeish skulle have fremstillet en moderne og responsive webshop i Shopify. Vi har designet hele websitet og alle undersider og dernæst stået for udviklingen af det i Shopify. Løbende arbejder vi med konverteringsoptimering og konstant forbedring af platformen.
+
+https://www.homeish.dk
+
+
+
+DENMARKBRIDGE:
+IDENTITET OG WEBSITE TIL ERHVERVSFORENING
+
+DenmarkBridge er en ny forening, som skal sikre danske virksomheder og iværksættere lettere adgang til Silicon Valley. Foreningen er etableret af A.P. Møller Mærsk, Danske Bank, LEGO, Dansk Industri (DI) og Vækstfonden i samarbejde med Erhvervs- og Vækstministeriet, Udenrigsministeriet og Uddannelses- og Forskningsministeriet. Protektor for foreningen er H.K.H. Kronprins Frederik.
+
+
+http://denmarkbridge.dk/
+
+______________________________________________________________________________________
+
+THE FUZZY FRONTEND
+Processen fra idé til produkt
+
+Vi gør det komplekse simpelt – uanset opgavens størrelse. Ved først at analysere data kan vi forstå dit brand, marked og målgruppe. Herefter ved vi, hvordan dit website skal designes for at skabe mest mulig værdi.
+
+______________________________________________________________________________________
+
+KONTAKT:
+
+Forandringer starter med en samtale
+
+Grib knoglen, send en e-mail eller vedhæft en note på en brevdue. Uanset hvilken metode du vælger, så glæder vi os til at høre fra dig.
+
+Udfyld vores kontaktformular, så vender vi tilbage.
+
+
+
+
+
+https://grafikr.dk/grafisk-design/
+https://bureau117.dk/visuel-identitet/
