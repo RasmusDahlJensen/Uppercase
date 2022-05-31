@@ -43,3 +43,8 @@ nav a{
 }
 
         /* HEADER */
+
+.bgimage{
+    background-image: url("Upper-Ribbon-Front.jpg");
+    width: 100%;
+}
