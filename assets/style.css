@@ -6,35 +6,41 @@
 
 body{
     margin: 0;
-    padding: 0;
+    padding: 0 10%;
+    background-color: #c4c4c499;
 }
-
 main{
-    max-width: 100%;
-    max-height: 100%;
-
+    background-color: white
 }
+
 
         /* NAVIGATION BAR */
 nav{
     display: flex;
     justify-content: space-between;
     margin: 0;
-    padding: 1% 0% 0 5%;
+    padding: 1% 0% 0 0%;
+    background-color: white;
 }
 
 nav figure{
     margin: 0;
-    padding: 0%;
+    padding: 0;
+    width: 30%;
+    height: auto;
 }
 
 nav img{
     max-width: 50%;
 }
 
+nav ul{
+    font-weight: 100;
+}
+
 nav li{
     display: inline;
-    color: grey;
+    color: #666666;
 }
 
 nav a{
@@ -43,8 +49,104 @@ nav a{
 }
 
         /* HEADER */
-
 .bgimage{
-    background-image: url("Upper-Ribbon-Front.jpg");
+    background-image: url(Upper-Ribbon-Front.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+    height: 450px;
     width: 100%;
+}
+
+.bgcontent{
+    padding: 1%
+}
+
+header img{
+    width: auto;
+    height: 100px;
+}
+
+header h2{
+    top: 18%;
+    color: white;
+    font-size: 25px;
+}
+
+header p{
+    color:  white;
+    font-size: 16px;
+}
+
+header a{
+    color: inherit;
+    text-decoration: underline white;
+}
+
+.headercontact{
+    margin-top: 5%;
+    margin-left: 10%; 
+
+}
+
+/* PAGE CONTENT */
+section{
+    padding: 1%;
+}
+section h2{
+    font-size: 60px;
+    font-weight: 300;
+    color: #666666;
+}
+
+section h3{
+    font-size: 30px;
+    font-weight: 200;
+    color: #666666;
+}
+
+section p{
+    color: #666666;
+    font-size: 24;
+    font-weight: 100;
+}
+
+/* Articles */
+.article-one, .article-two{
+    display: flex;
+}
+.articlebutton a{
+    margin-left: 70%;
+    color: #666666;
+    text-decoration: underline #666666;
+}
+
+/* Footer */
+footer{
+    display: flex;
+    background-color: #66666670;
+    padding: 2%;
+    margin-top: 5%;
+    justify-content: space-between;
+}
+footer h3{
+    margin: 0;
+    padding: 0;
+    color: #1d1d1d;
+}
+
+footer p{
+    margin: 0;
+    padding: 0;
+}
+
+.om-os{
+    width: 25%;
+}
+
+footer a{
+    color: inherit;
+    text-decoration: underline #1d1d1d;
 }
