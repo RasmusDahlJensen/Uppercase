@@ -152,15 +152,23 @@ nav a{
         margin: 0 1% 0 0;
     }
 
+    .preformflex{
+        display: flex;
+        gap: 25%;
+    }
+
     /* FORM */
     form ul{
         list-style: none;
         margin: 0;
         padding: 0;
     }
+    form label{
+        margin: 1%;
+    }
 
     form li{
-        margin: 0.3% 0;
+        margin: 1.5% 0;
     }
 
     .formh3{
@@ -181,6 +189,45 @@ nav a{
 
     .textnsubmit textarea{
         resize: none;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 2%;
+        padding: 5%;
+    }
+    
+    input{
+        padding: 12px 50px;
+        margin: 0;
+        box-sizing: border-box;
+    }
+    
+    button{
+        border-radius: 0;
+    } 
+
+    .buttonArea{
+        display: flex;
+        gap: 10%;
+    }
+    
+     #btnSubmit{
+        width: 45%;
+        height: 40px;
+        background-color: lightgreen;
+        border-radius: 5%;
+    }
+    
+    #btnReset{
+        width: 45%;
+        height: 40px;
+        background-color: lightcoral;
+        border-radius: 5%;
+    }
+
+ 
+    .border-error{
+        border: 2px red solid;
+        background-color: rgba(247, 143, 143, 0.278);
     }
 
     /* FOOTER */
