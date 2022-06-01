@@ -54,10 +54,97 @@ nav a{
 }
 
 /* HEADER */
+.bgimage{
+    background-image: url(../_FILES/Upper-Images-New/Upper-Ribbon-Comp.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+    height: 450px;
+    width: 100%;
+}
+
+.bgcontent{
+    padding: 1%
+}
+
+header img{
+    width: auto;
+    height: 100px;
+}
+
+header h3{
+    top: 18%;
+    color: white;
+    font-size: 25px;
+}
+
+header p{
+    color:  white;
+    font-size: 16px;
+    width: 30%;
+}
 
 /* MAIN CONTENT */
 
+section{
+    padding: 1%;
+}
+section h2{
+    font-size: 60px;
+    font-weight: 300;
+    color: #666666;
+    margin: 0;
+}
+
+section h3{
+    font-size: 30px;
+    font-weight: 200;
+    color: #666666;
+    margin: 0;
+}
+
+section h4{
+    color: #666666;
+    font-weight: 500;
+    margin: 2% 0 0 0;
+}
+
+section p{
+    color: #666666;
+    font-size: 24;
+    font-weight: 400;
+    margin: 0;
+}
+
+.articleContent{
+    display: flex;
+    margin: 8% 0;
+}
+
+
+.articleContent img{
+    max-height: 70px;
+    width: 70px;
+    margin-right: 0.5%;
+}
+
+aside a{
+    color: #666666;
+    text-decoration: underline #666666;
+}
+
+main h2{
+    margin-top: 3%;
+}
+
+.articleFlex{
+    display: flex;
+}
+
 /* FOOTER */
+
 footer{
     display: flex;
     background-color: #66666670;
