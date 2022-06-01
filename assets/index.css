@@ -12,6 +12,7 @@ body{
 .container-main{
     max-width: 1600px;
     margin: auto;
+    padding: 0.5%;
     background-color: white
 }
 
@@ -22,14 +23,15 @@ nav{
     margin: 0;
     padding: 5px;
     background-color: white;
-    gap: 15%;
+    gap: 35%;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,.2);
+    position: relative
 }
 
 nav figure{
     margin: 0;
     padding: 0;
-    width: 30%;
+    width: auto;
     height: auto;
 }
 
@@ -130,7 +132,8 @@ section p{
 footer{
     display: flex;
     background-color: #66666670;
-    padding: 2%;
+    padding: 2% 7%;
+
     margin-top: 5%;
     justify-content: space-between;
 }
@@ -152,4 +155,9 @@ footer p{
 footer a{
     color: inherit;
     text-decoration: underline #1d1d1d;
+}
+
+.footerlogos img{
+    max-width: 50px;
+    opacity: 0.6;
 }
