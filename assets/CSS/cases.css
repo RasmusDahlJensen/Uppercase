@@ -115,7 +115,7 @@ nav a{
         font-size: 60px;
         font-weight: 300;
         color: #666666;
-        margin: 0;
+        margin: 5% 0 0 0;
     }
     
     section h3{
@@ -125,11 +125,6 @@ nav a{
         margin: 0;
     }
     
-    section h4{
-        color: #666666;
-        font-weight: 500;
-        margin: 2% 0 0 0;
-    }
     
     section p{
         color: #666666;
@@ -138,8 +133,54 @@ nav a{
         margin: 0;
     }
 
+    .gallery-one{
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        grid-template-rows: repeat(2, 1fr);
+        grid-column-gap: 0px;
+        grid-row-gap: 0px; 
+    }
+     .gallery-two{
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        grid-template-rows: repeat(2, 1fr);
+        grid-column-gap: 0px;
+        grid-row-gap: 0px; 
+    }
+    .galleryitem img{
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
+    }
+
+    .galleryitem1{
+        grid-area: 1 / 1 / 2 / 2; 
+    }
+    .galleryitem2{
+        grid-area: 1 / 2 / 2 / 3;
+    }
+    .galleryitem3{
+        grid-area: 1 / 3 / 2 / 4;
+    }
+    .galleryitem4{
+        grid-area: 1 / 4 / 2 / 5;
+    }
+    .galleryitem5{
+        grid-area: 2 / 1 / 3 / 2;
+    }
+    .galleryitem6{
+        grid-area: 2 / 2 / 3 / 3;
+    }
+    .galleryitem7{
+        grid-area: 2 / 3 / 3 / 4;
+    }
+    .galleryitem8{
+        grid-area: 2 / 4 / 3 / 5;
+    }
+
 
     /* FOOTER */
+
 
 footer{
     display: flex;
