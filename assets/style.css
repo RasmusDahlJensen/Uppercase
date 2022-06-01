@@ -6,21 +6,24 @@
 
 body{
     margin: 0;
-    padding: 0 10%;
     background-color: #c4c4c499;
 }
-main{
+
+.container-main{
+    max-width: 1600px;
+    margin: auto;
     background-color: white
 }
-
 
         /* NAVIGATION BAR */
 nav{
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     margin: 0;
-    padding: 1% 0% 0 0%;
+    padding: 5px;
     background-color: white;
+    gap: 15%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,.2);
 }
 
 nav figure{
