@@ -53,8 +53,104 @@ nav a{
 }
 
     /* HEADER */
+    .bgimage{
+        background-image: url(../_FILES/Upper-Images-New/RIBBON-CONTACT.png);
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        margin: 0;
+        padding: 0;
+        height: 450px;
+        width: 100%;
+    }
+
+    .bgflex{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .bgflex button{
+        align-self: center;
+        width: 150px;
+        height: 60px;
+        background-color: transparent;
+        border: 2px solid white;
+        border-radius: 5px;
+        color: white;
+        font-weight: 400;
+        font-size: 18px;
+        margin-top: 10%;
+    }
+
+    .bgflex a{
+        color: inherit;
+        text-decoration: none;
+    }
+    
+    .bgcontent{
+        padding: 1%
+    }
+    
+    header img{
+        width: auto;
+        height: 100px;
+    }
+    
+    header h3{
+        top: 18%;
+        color: white;
+        font-size: 20px;
+    }
+    
+    header p{
+        color:  white;
+        font-size: 16px;
+        width: 30%;
+    }
 
     /* MAIN CONTENT */
+    section{
+        padding: 1%;
+    }
+    section h2{
+        font-size: 60px;
+        font-weight: 300;
+        color: #666666;
+        margin: 1% 0 3% 0;
+    }
+    
+    section h3{
+        font-size: 30px;
+        font-weight: 200;
+        color: #666666;
+        margin: 0;
+    }
+    
+    section p{
+        color: #666666;
+        font-size: 24;
+        font-weight: 400;
+        margin: 0;
+        width: 80%;
+    }
+
+    section a{
+        color: inherit;
+        text-decoration: underline #1d1d1d;
+        color: #666666;
+    }
+    
+    .articleFlex{
+        display: flex;
+    }
+
+    .mailbutton{
+        margin-left: 60%;
+    }
+
+    section figure{
+        margin: 0 1% 0 0;
+    }
 
     /* FOOTER */
 
