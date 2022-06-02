@@ -16,27 +16,27 @@ body{
     padding: 0.5%;
 }
     /* NAV */
-nav{
-    display: flex;
-    justify-content: center;
-    margin: 0;
-    padding: 5px;
-    background-color: white;
-    gap: 35%;
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,.2);
-    position: relative
-}
-
-nav figure{
-    margin: 0;
-    padding: 0;
-    width: auto;
-    height: auto;
-}
-
-nav img{
-    max-width: 50%;
-}
+    nav{
+        display: flex;
+        justify-content: center;
+        margin: 0;
+        padding: 5px;
+        background-color: white;
+        gap: 45%;
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,.2);
+        position: relative
+    }
+    
+    nav figure{
+        margin: 0;
+        padding: 0;
+    
+    }
+    
+    nav img{
+        width: 300px;
+        height: 50px;
+    }
 
 nav ul{
     font-weight: 100;
